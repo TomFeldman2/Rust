@@ -1,0 +1,5 @@
+# cargo
+cargo build
+cargo run
+cargo update
+cargo doc --open
